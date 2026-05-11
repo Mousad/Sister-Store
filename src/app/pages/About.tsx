@@ -44,7 +44,7 @@ export function About() {
                 قصة بدأت بحلم وانتهت بمتجر يُحب
               </h2>
               <p className="text-gray-600 leading-loose mb-5">
-                في عام 2020، انطلقت Sister Store For Elegant من خيط شغف حقيقي بالزي السوداني الأصيل. مؤسسة المتجر كانت تحلم دائماً بمكان يجمع بين جمال التراث السوداني وروح الموضة العصرية.
+                في عام 2018، انطلقت   TEIAB ALKANDAKA    من خيط شغف حقيقي بالزي السوداني الأصيل. مؤسسة المتجر كانت تحلم دائماً بمكان يجمع بين جمال التراث السوداني وروح الموضة العصرية.
               </p>
               <p className="text-gray-600 leading-loose mb-5">
                 بدأت بخياطة التوبات السودانية يدوياً وتصميمها بأسلوب مختلف، يجمع بين النقشة الكلاسيكية السودانية وخطوط التصميم الحديثة التي تناسب المرأة العصرية.
@@ -55,12 +55,12 @@ export function About() {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="https://images.unsplash.com/photo-1758900728025-3d70604871c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=500"
+                src="https://i.pinimg.com/1200x/6a/3f/1b/6a3f1bb9179a2e584888cffba230da41.jpg"
                 alt="قصة البراند 1"
                 className="aspect-[3/4] object-cover w-full"
               />
               <img
-                src="https://images.unsplash.com/photo-1771591350917-1dc566e5d76a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=500"
+                src="https://i.pinimg.com/736x/33/8b/e8/338be82eca2bad4789ecccfa440c6b6a.jpg"
                 alt="قصة البراند 2"
                 className="aspect-[3/4] object-cover w-full mt-8"
               />
@@ -72,16 +72,16 @@ export function About() {
       {/* Stats */}
       <section className="bg-[#9b3c52] py-16 px-6">
         <div className="max-w-7xl mx-auto">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center text-white">
+          <div className="grid grid-cols-3 md:grid-cols-4 gap-8 text-center text-white">
             {[
               { icon: Users, number: "+500", label: "عميلة سعيدة" },
               { icon: Award, number: "+200", label: "منتج مميز" },
-              { icon: Star, number: "4.9", label: "تقييم العملاء" },
-              { icon: Heart, number: "5", label: "سنوات من العطاء" },
+        
+              { icon: Heart, number: "5", label: "خبرة" },
             ].map(({ icon: Icon, number, label }, i) => (
               <div key={i} className="flex flex-col items-center">
                 <Icon size={32} className="text-white/70 mb-3" />
-                <p className="text-4xl font-black mb-1">{number}</p>
+                <p className="text-[20px] font-black mb-1">{number}</p>
                 <p className="text-white/70 text-sm">{label}</p>
               </div>
             ))}
@@ -154,7 +154,8 @@ export function About() {
       <section className="py-20 px-6 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-10">
-            <h2 className="text-gray-900 text-3xl font-bold">من كواليس Sister Store</h2>
+            <h2 className="text-gray-900 text-[25px] font-bold">من كواليس   </h2>
+            <h2 className="text-gray-900 text-[25px] font-bold">  TEIAB ALKANDAKA </h2>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {[

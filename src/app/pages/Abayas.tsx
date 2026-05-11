@@ -40,7 +40,7 @@ export function Abayas() {
             أرقى التشكيلات
           </p>
           <h1 className="text-white text-4xl md:text-5xl font-bold mb-4">
-            العبايات
+            تياب اعراس
           </h1>
           <p className="text-white/70 max-w-xl mx-auto">
             تشكيلة استثنائية من العبايات المصممة بإتقان

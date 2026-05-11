@@ -177,7 +177,7 @@ export function Cart() {
               </button>
 
               <a
-                href={`https://wa.me/249123456789?text=${encodeURIComponent("مرحباً، أريد إتمام طلبي عبر واتساب")}`}
+                href={`https://wa.me/00201207013520?text=${encodeURIComponent("مرحباً، أريد إتمام طلبي عبر واتساب")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full mt-3 py-3 border border-[#25D366] text-[#25D366] flex items-center justify-center gap-2 text-sm hover:bg-[#25D366] hover:text-white transition-colors"

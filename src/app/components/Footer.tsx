@@ -5,16 +5,17 @@ import { Instagram, MessageCircle, Heart } from "lucide-react";
 export function Footer() {
   return (
     <footer className="bg-[#1a1a1a] text-white" dir="rtl">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
           {/* Brand */}
           <div className="lg:col-span-2">
             <div className="mb-4">
-              <h3 className="text-[#9b3c52] font-black text-2xl">Sister Store</h3>
-              <p className="text-gray-400 text-sm tracking-widest uppercase">for Elegant</p>
+              <h3 className="text-[#9b3c52] font-black text-2xl">Teiab Store</h3>
             </div>
             <p className="text-gray-400 leading-relaxed mb-6 max-w-xs">
               وجهتك الأولى للأزياء السودانية الأنيقة. نجمع بين أصالة التراث وروح العصر في كل قطعة.
+              احدث كوليكشن للتياب السودانى
+و أرهب التصاميم
             </p>
             <div className="flex items-center gap-4">
               <a
@@ -62,9 +63,9 @@ export function Footer() {
          
         </div>
 
-        <div className="border-t border-white/10 mt-12 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div className="border-t border-white/10 mt-2 pt-2 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm">
-            © 2026 Sister Store  . جميع الحقوق محفوظة.
+            © 2026 Teiab Store  . جميع الحقوق محفوظة.
           </p>
           <p className="text-gray-600 text-sm flex items-center gap-1">
             صُنع بـ <Heart size={13} className="text-[#9b3c52]" fill="currentColor" /><a href="https://soob-portfolio.vercel.app/">Soo</a>

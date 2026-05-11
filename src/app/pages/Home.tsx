@@ -23,13 +23,13 @@ const heroSlides = [
       "https://i.pinimg.com/736x/03/15/6a/03156a9661c467b01622149c64555a44.jpg",
     title: "أناقة سودانية",
     subtitle: "بطابع عصري",
-    tag: "مجموعة 2026",
+    tag: "تياب الكنداكه",
   },
   {
     image:
-      "https://i.pinimg.com/1200x/1b/32/0f/1b320f6527c2a2bf2ec29fb95471b3a6.jpg",
-    title: "عبايات فاخرة",
-    subtitle: "لكل مناسبة",
+      "https://i.pinimg.com/736x/05/84/f7/0584f7b0cdfc4fd3319752f34cd1af26.jpg",
+    title: "توب جرتك",
+    subtitle: "احدث كوليكشن للتياب السودانى   ",
     tag: "تشكيلة جديدة",
   },
 ];
@@ -58,11 +58,11 @@ const heroSlides = [
 
 const lookbookImages = [
   "https://i.pinimg.com/736x/5f/39/30/5f3930cbf01aeab6cb1aee3b36d0d0b3.jpg",
-  "https://i.pinimg.com/736x/0d/78/fc/0d78fc2711dad9acf148ffd45828836e.jpg",
-  "https://i.pinimg.com/1200x/83/c8/e0/83c8e00c70c3295487ee890be79e9527.jpg",
+  "https://i.pinimg.com/736x/e8/02/15/e80215d33bb67b8b488b6f693257c52b.jpg",
+  "https://i.pinimg.com/736x/64/51/06/6451065373b1d8fea392a87b6b23e87e.jpg",
   "https://i.pinimg.com/736x/5f/33/57/5f33577386775cd77041ef5fc92d71b2.jpg",
-  "https://images.unsplash.com/photo-1523260578934-e9318da58c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=600",
-  "https://images.unsplash.com/photo-1671988621520-ba730728a7e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=600",
+  "https://i.pinimg.com/1200x/1f/fb/79/1ffb79dc33b0f447884320d9b4cbd3c3.jpg",
+  "https://i.pinimg.com/736x/7b/9d/62/7b9d62725fecafe4d894588ffcbbcb49.jpg",
 ];
 
 export function Home() {
@@ -193,15 +193,15 @@ export function Home() {
 
       {/* ======= CATEGORIES ======= */}
       <section className="py-1 px-6 max-w-7xl mx-auto">
-        <div className="text-center mb-12">
+        <div className="text-center mb-10">
           <h2 className="text-[#9b3c52] text-3xl font-bold">الأقسام</h2>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-2 gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-2 gap-3">
           {/* Sudanese Top */}
           <Link
             to="/sudanese-top"
-            className="group relative overflow-hidden h-[220px] rounded-2xl block"
+            className="group relative overflow-hidden h-[240px] rounded-[8px] block"
           >
             <img
               src="https://i.pinimg.com/736x/03/15/6a/03156a9661c467b01622149c64555a44.jpg"
@@ -211,12 +211,12 @@ export function Home() {
 
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
 
-            <div className="absolute bottom-8 right-4">
-              <h3 className="text-[#9b3c52] text-3xl font-bold mb-10">
-                التياب
+            <div className="absolute bottom-8 right-2">
+              <h3 className="text-[#fcf7f4] text-[22px] font-bold mb-10">
+                التياب سوداني
               </h3>
 
-              <span className="inline-flex items-center gap-2 text-white text-sm border border-white/50 px-2 py-1 rounded-full group-hover:bg-white group-hover:text-[#9b3c52] transition-all">
+              <span className="inline-flex items-center gap-2 text-white text-sm border border-white/50 px-2 py-1 rounded-[7px] group-hover:bg-white group-hover:text-[#9b3c52] transition-all">
                 تسوق <ArrowLeft size={8} />
               </span>
             </div>
@@ -225,22 +225,22 @@ export function Home() {
           {/* Abayas */}
           <Link
             to="/abayas"
-            className="group relative overflow-hidden h-[220px] rounded-2xl block"
+            className="group relative overflow-hidden h-[240px] rounded-[8px] block"
           >
             <img
-              src="https://i.pinimg.com/736x/6c/a8/44/6ca844c7c1c8a1bcbea4fba7f6f72e92.jpg"
+              src="https://i.pinimg.com/736x/9a/13/3d/9a133df286b5f71f8e86ced85c8e5238.jpg"
               alt="عبايات"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
             />
 
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
 
-            <div className="absolute bottom-8 right-6">
-              <h3 className="text-[#9b3c52] text-3xl font-bold mb-10">
-                عبايات
+            <div className="absolute bottom-8 right-4">
+              <h3 className="text-[#fcf7f4] text-[22px] font-bold mb-10">
+                توب عرس
               </h3>
 
-              <span className="inline-flex items-center gap-2 text-white text-sm border border-white/50 px-2 py-1 rounded-full group-hover:bg-white group-hover:text-[#9b3c52] transition-all">
+              <span className="inline-flex items-center gap-2 text-white text-sm border border-white/50 px-2 py-1 rounded-[7px] group-hover:bg-white group-hover:text-[#9b3c52] transition-all">
                 تسوق <ArrowLeft size={8} />
               </span>
             </div>
@@ -367,7 +367,7 @@ export function Home() {
 
       {/* Image */}
       <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrkaMlN1Gm-RTyYhAWl3KIVBF-eYfejOu86S9AEsgx-dPwDnQb"
+        src="https://i.pinimg.com/1200x/f1/2f/d0/f12fd0db2cad9cd224ca46e0043a276b.jpg"
         alt="عن Sister Store"
         className="w-full h-[400px] object-cover group-hover:scale-105 transition duration-700"
       />
@@ -385,11 +385,11 @@ export function Home() {
           </p>
 
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            نصنع الأناقة السودانية بعشق حقيقي
+           احدث كوليكشن للتياب السودانى
           </h2>
 
           <p className="text-white/70 mb-6 text-sm md:text-base">
-            Sister Store For Elegant هي أكثر من مجرد متجر، نحن نحتفل بجمال المرأة السودانية
+            TEIAB ALKANDAKA    هي أكثر من مجرد متجر، نحن نحتفل بجمال المرأة السودانية
           </p>
 
           {/* Button */}
@@ -471,7 +471,7 @@ export function Home() {
     </p>
 
     <h2 className="text-3xl font-bold text-gray-900">
-      نحن في قلب الجيزة – الدقي
+     مصر القاهرة
     </h2>
 
     <p className="text-gray-600 mt-3">
@@ -481,15 +481,15 @@ export function Home() {
   </div>
 
   {/* Map */}
-  <div className="w-full h-[350px] overflow-hidden shadow-md border">
-    <iframe
-      title="Google Map - Dokki"
-      src="https://www.google.com/maps?q=Dokki%2C%20Giza%2C%20Egypt&output=embed"
-      width="100%"
-      height="100%"
-      loading="lazy"
-      className="w-full h-full"
-    ></iframe>
+  <div className="w-full h-[250px] overflow-hidden shadow-md border">
+   <iframe
+  title="Google Map - Cairo"
+  src="https://www.google.com/maps?q=Cairo%2C%20Egypt&output=embed"
+  width="100%"
+  height="100%"
+  loading="lazy"
+  className="w-full h-full"
+></iframe>
   </div>
 </section>
 
