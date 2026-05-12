@@ -82,7 +82,7 @@ export function ProductCard({ product }: ProductCardProps) {
         {/* Price + Cart */}
         <div className="flex items-center justify-between">
           <span className="text-[#9b3c52] font-semibold text-base">
-            {product.price.toLocaleString("ar-SA")} ج.م
+            {product.price.toLocaleString("ar-SA")} د.إ
           </span>
 
           <button

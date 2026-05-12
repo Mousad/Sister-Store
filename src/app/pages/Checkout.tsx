@@ -250,7 +250,7 @@ export function Checkout() {
                         {item.selectedSize} • {item.selectedColor}
                       </p>
                       <p className="text-gray-600 text-xs mt-1">
-                        {item.quantity} × {item.product.price.toLocaleString("ar-SA")} ج.م
+                        {item.quantity} × {item.product.price.toLocaleString("ar-SA")} د.إ
                       </p>
                     </div>
                     <p className="text-[#9b3c52] text-sm font-semibold shrink-0">
@@ -263,7 +263,7 @@ export function Checkout() {
               <div className="border-t border-gray-100 pt-4 space-y-2">
                 <div className="flex justify-between text-sm text-gray-600">
                   <span>المجموع</span>
-                  <span>{totalPrice.toLocaleString("ar-SA")} جنيه</span>
+                  <span>{totalPrice.toLocaleString("ar-SA")} د.إ</span>
                 </div>
                 <div className="flex justify-between text-sm text-gray-600">
                   <span>الشحن</span>
@@ -274,7 +274,7 @@ export function Checkout() {
                 <div className="flex justify-between font-bold text-gray-900 pt-2 border-t border-gray-100">
                   <span>الإجمالي</span>
                   <span className="text-[#9b3c52]">
-                    {(totalPrice + shipping).toLocaleString("ar-SA")} ج.م
+                    {(totalPrice + shipping).toLocaleString("ar-SA")} د.إ
                   </span>
                 </div>
               </div>

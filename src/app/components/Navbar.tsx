@@ -68,10 +68,10 @@ export function Navbar() {
                 <Link
                   key={link.href}
                   to={link.href}
-                  className={`text-sm transition-colors duration-200 relative after:absolute after:bottom-[-4px] after:right-0 after:w-0 after:h-[2px] after:bg-[#9b3c52] after:transition-all after:duration-300 hover:after:w-full hover:text-[#f5f5f5] ${
+                  className={`text-sm transition-colors duration-200 relative after:absolute after:bottom-[-4px] after:right-0 after:w-0 after:h-[2px] after:bg-[#9b3c52] after:transition-all after:duration-300 hover:after:w-full hover:text-[#9b3c52] text-[#9b3c52] ${
                     isActive(link.href)
-                      ? "text-[#f5f5f5] font-semibold after:w-full"
-                      : "text-gray-200"
+                      ? "text-[#9b3c52] font-semibold after:w-full"
+                      : "text-[#9b3c52]"
                   }`}
                 >
                   {link.label}

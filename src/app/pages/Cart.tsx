@@ -66,7 +66,7 @@ export function Cart() {
                     <span>اللون: {item.selectedColor}</span>
                   </div>
                   <p className="text-[#9b3c52] font-bold text-base">
-                    {item.product.price.toLocaleString("ar-SA")} ج.م
+                    {item.product.price.toLocaleString("ar-SA")} د.إ
                   </p>
 
                   <div className="flex items-center justify-between mt-4">
@@ -106,7 +106,7 @@ export function Cart() {
                     {/* Subtotal + Delete */}
                     <div className="flex items-center gap-4">
                       <span className="text-gray-700 text-sm">
-                        {(item.product.price * item.quantity).toLocaleString("ar-SA")} ج.م
+                        {(item.product.price * item.quantity).toLocaleString("ar-SA")} د.إ
                       </span>
                       <button
                         onClick={() =>
@@ -149,7 +149,7 @@ export function Cart() {
                 <div className="flex justify-between text-sm text-gray-600">
                   <span>الشحن</span>
                   <span className={totalPrice >= 1000 ? "text-green-600" : ""}>
-                    {totalPrice >= 1000 ? "مجاني" : "50 جنيه"}
+                    {totalPrice >= 1000 ? "مجاني" : "50 د.إ"}
                   </span>
                 </div>
                 {totalPrice < 1000 && (
@@ -163,7 +163,7 @@ export function Cart() {
                 <div className="flex justify-between font-bold text-gray-900">
                   <span>المجموع الكلي</span>
                   <span className="text-[#9b3c52] text-lg">
-                    {(totalPrice + (totalPrice >= 1000 ? 0 : 50)).toLocaleString("ar-SA")} ج.م
+                    {(totalPrice + (totalPrice >= 1000 ? 0 : 50)).toLocaleString("ar-SA")} د.إ
                   </span>
                 </div>
               </div>
