@@ -77,7 +77,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-gray-800 font-semibold text-sm mb-0.5">واتساب</p>
-                <p className="text-gray-500 text-sm">00201207013520</p>
+                <p className="text-gray-500 text-sm">+249909167743</p>
                 <p className="text-[#9b3c52] text-xs mt-1">راسلينا الآن ←</p>
               </div>
             </a>
@@ -94,7 +94,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-gray-800 font-semibold text-sm mb-0.5">إنستغرام</p>
-                <p className="text-gray-500 text-sm">@teiab_alkandaka</p>
+                <p className="text-gray-500 text-sm">@toob_for_less</p>
                 <p className="text-[#9b3c52] text-xs mt-1">تابعينا ←</p>
               </div>
             </a>
@@ -106,7 +106,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-gray-800 font-semibold text-sm mb-0.5">العنوان</p>
-                <p className="text-gray-500 text-sm"> 📍 Egypt</p>
+                <p className="text-gray-500 text-sm"> 📍 السودان</p>
                 <p className="text-gray-400 text-xs mt-0.5">نخدم جميع الدول </p>
               </div>
             </div>

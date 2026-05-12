@@ -44,13 +44,13 @@ export function About() {
                 قصة بدأت بحلم وانتهت بمتجر يُحب
               </h2>
               <p className="text-gray-600 leading-loose mb-5">
-                في عام 2018، انطلقت   TEIAB ALKANDAKA    من خيط شغف حقيقي بالزي السوداني الأصيل. مؤسسة المتجر كانت تحلم دائماً بمكان يجمع بين جمال التراث السوداني وروح الموضة العصرية.
+                في عام 2018، انطلقت   TOOB FOR LESS    من خيط شغف حقيقي بالزي السوداني الأصيل. مؤسسة المتجر كانت تحلم دائماً بمكان يجمع بين جمال التراث السوداني وروح الموضة العصرية.
               </p>
               <p className="text-gray-600 leading-loose mb-5">
                 بدأت بخياطة التوبات السودانية يدوياً وتصميمها بأسلوب مختلف، يجمع بين النقشة الكلاسيكية السودانية وخطوط التصميم الحديثة التي تناسب المرأة العصرية.
               </p>
               <p className="text-gray-600 leading-loose">
-                اليوم، Sister Store For Elegant أصبحت وجهة آلاف النساء السودانيات اللواتي يبحثن عن الأناقة الأصيلة والجودة التي لا تُقاوم.
+                اليوم، TOOB FOR LESS  أصبحت وجهة آلاف النساء السودانيات اللواتي يبحثن عن الأناقة الأصيلة والجودة التي لا تُقاوم.
               </p>
             </div>
             <div className="grid grid-cols-2 gap-4">
@@ -155,7 +155,7 @@ export function About() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-10">
             <h2 className="text-gray-900 text-[25px] font-bold">من كواليس   </h2>
-            <h2 className="text-gray-900 text-[25px] font-bold">  TEIAB ALKANDAKA </h2>
+            <h2 className="text-gray-900 text-[25px] font-bold">  TOOB FOR LESS </h2>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {[
@@ -182,7 +182,10 @@ export function About() {
       <section className="py-16 bg-[#1a1a1a] px-6 text-center">
         <div className="max-w-2xl mx-auto">
           <h2 className="text-white text-3xl font-bold mb-4">
-            انضمي إلى عائلة Sister Store
+            انضمي إلى عائلة  
+          </h2>
+          <h2 className="text-white text-3xl font-bold mb-4">
+           TOOB FOR LESS
           </h2>
           <p className="text-gray-400 mb-8">
             اكتشفي تشكيلتنا وكوني جزءاً من قصة الأناقة السودانية

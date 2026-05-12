@@ -10,7 +10,7 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <div className="mb-4">
-              <h3 className="text-[#9b3c52] font-black text-2xl">Teiab Store</h3>
+              <h3 className="text-[#9b3c52] font-black text-2xl">TOOB FOR LESS</h3>
             </div>
             <p className="text-gray-400 leading-relaxed mb-6 max-w-xs">
               وجهتك الأولى للأزياء السودانية الأنيقة. نجمع بين أصالة التراث وروح العصر في كل قطعة.
@@ -65,7 +65,7 @@ export function Footer() {
 
         <div className="border-t border-white/10 mt-2 pt-2 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm">
-            © 2026 Teiab Store  . جميع الحقوق محفوظة.
+            © 2026 TOOB FOR LESS  . جميع الحقوق محفوظة.
           </p>
           <p className="text-gray-600 text-sm flex items-center gap-1">
             صُنع بـ <Heart size={13} className="text-[#9b3c52]" fill="currentColor" /><a href="https://soob-portfolio.vercel.app/">Soo</a>

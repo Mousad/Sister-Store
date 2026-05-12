@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faFacebook, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
-
+import { FaWhatsapp } from "react-icons/fa"
 import { Link } from "react-router-dom";
 
 import {
@@ -23,7 +23,7 @@ const heroSlides = [
       "https://i.pinimg.com/736x/03/15/6a/03156a9661c467b01622149c64555a44.jpg",
     title: "أناقة سودانية",
     subtitle: "بطابع عصري",
-    tag: "تياب الكنداكه",
+    tag: "Toob For Less",
   },
   {
     image:
@@ -336,7 +336,7 @@ export function Home() {
               إلهام الأناقة
             </p>
             <h2 className="text-gray-900 text-3xl font-bold">معرض الصور</h2>
-            <p className="text-gray-500 mt-2 text-sm">Lookbook | تشكيلة 2025</p>
+            <p className="text-gray-500 mt-2 text-sm">Toob For Less | تشكيلة 2026</p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
             {lookbookImages.map((img, i) => (
@@ -389,7 +389,7 @@ export function Home() {
           </h2>
 
           <p className="text-white/70 mb-6 text-sm md:text-base">
-            TEIAB ALKANDAKA    هي أكثر من مجرد متجر، نحن نحتفل بجمال المرأة السودانية
+              TOOB FOR LESS    هي أكثر من مجرد متجر، نحن نحتفل بجمال المرأة السودانية
           </p>
 
           {/* Button */}
@@ -523,6 +523,14 @@ export function Home() {
 
       </div>
     </section>
+
+      <Link
+      href="https://wa.me/+249909167743"
+      target="_blank"
+      className="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-[0_0_25px_rgba(37,211,102,0.5)] transition-all duration-300 hover:scale-110"
+    >
+      <FaWhatsapp className="h-8 w-8" />
+    </Link>
      
     </div>
   );

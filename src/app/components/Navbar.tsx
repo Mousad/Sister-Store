@@ -37,11 +37,11 @@ export function Navbar() {
   return (
     <>
       <nav
-        className={`fixed -top-0 right-0 left-0 z-50 transition-all duration-500 bg-[#fcf7f4] shadow-md`}
+        className={`fixed -top-0 right-0 left-0 z-50 transition-all duration-500 bg-[#ffffff] shadow-md`}
         dir="rtl"
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center h-13">
+          <div className="flex items-center h-18">
 
             {/* MOBILE: Menu - LEFT */}
             <button
@@ -55,9 +55,9 @@ export function Navbar() {
             <div className="flex-1 flex justify-center lg:justify-start">
               <Link to="/" className="flex items-start group">
                 <img
-                  src="/images/logo.png"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTue5PjUNw3Cf0XRCxL7OjIFaE1XID_O0GCkJ9x-UP7J1nwwdq3"
                   alt="Sister Store"
-                  className="h-13 w-auto object-contain transition-opacity group-hover:opacity-80"
+                  className="h-18 w-auto object-contain transition-opacity group-hover:opacity-80"
                 />
               </Link>
             </div>
