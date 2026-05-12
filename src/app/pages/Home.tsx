@@ -482,9 +482,9 @@ export function Home() {
 
   {/* Map */}
   <div className="w-full h-[250px] overflow-hidden shadow-md border">
-   <iframe
-  title="Google Map - Cairo"
-  src="https://www.google.com/maps?q=Cairo%2C%20Egypt&output=embed"
+ <iframe
+  title="Google Map - Abu Dhabi"
+  src="https://www.google.com/maps?q=Abu%20Dhabi%2C%20United%20Arab%20Emirates&output=embed"
   width="100%"
   height="100%"
   loading="lazy"
