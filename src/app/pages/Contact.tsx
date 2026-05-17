@@ -67,7 +67,7 @@ export function Contact() {
 
             {/* WhatsApp */}
             <a
-              href="https://wa.me/00201207013520"
+              href="https://wa.me/+201019715494"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-start gap-4 bg-white p-6 hover:shadow-md transition-shadow group"
@@ -77,7 +77,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-gray-800 font-semibold text-sm mb-0.5">واتساب</p>
-                <p className="text-gray-500 text-sm">+249909167743</p>
+                <p className="text-gray-500 text-sm">+20 10 19715494</p>
                 <p className="text-[#9b3c52] text-xs mt-1">راسلينا الآن ←</p>
               </div>
             </a>
@@ -94,7 +94,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-gray-800 font-semibold text-sm mb-0.5">إنستغرام</p>
-                <p className="text-gray-500 text-sm">@toob_for_less</p>
+                <p className="text-gray-500 text-sm">@sabah_line</p>
                 <p className="text-[#9b3c52] text-xs mt-1">تابعينا ←</p>
               </div>
             </a>
@@ -106,7 +106,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-gray-800 font-semibold text-sm mb-0.5">العنوان</p>
-                <p className="text-gray-500 text-sm"> 📍 السودان</p>
+                <p className="text-gray-500 text-sm"> 📍 القاهرة</p>
                 <p className="text-gray-400 text-xs mt-0.5">نخدم جميع الدول </p>
               </div>
             </div>
@@ -127,7 +127,7 @@ export function Contact() {
 
             {/* Direct WhatsApp Button */}
             <a
-              href="https://wa.me/249123456789?text=مرحباً، أريد الاستفسار عن منتجاتكم"
+              href="https://wa.me/+201019715494?text=مرحباً، أريد الاستفسار عن منتجاتكم"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 bg-[#25D366] text-white py-4 px-6 hover:bg-[#1dba57] transition-colors text-sm font-semibold w-full"

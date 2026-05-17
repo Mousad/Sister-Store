@@ -44,23 +44,23 @@ export function About() {
                 قصة بدأت بحلم وانتهت بمتجر يُحب
               </h2>
               <p className="text-gray-600 leading-loose mb-5">
-                في عام 2018، انطلقت   TOOB FOR LESS    من خيط شغف حقيقي بالزي السوداني الأصيل. مؤسسة المتجر كانت تحلم دائماً بمكان يجمع بين جمال التراث السوداني وروح الموضة العصرية.
+                في عام 2025 انطلقت   Sabah Line | Abayas     من خيط شغف حقيقي بالزي السوداني الأصيل. مؤسسة المتجر كانت تحلم دائماً بمكان يجمع بين جمال التراث السوداني وروح الموضة العصرية.
               </p>
               <p className="text-gray-600 leading-loose mb-5">
                 بدأت بخياطة التوبات السودانية يدوياً وتصميمها بأسلوب مختلف، يجمع بين النقشة الكلاسيكية السودانية وخطوط التصميم الحديثة التي تناسب المرأة العصرية.
               </p>
               <p className="text-gray-600 leading-loose">
-                اليوم، TOOB FOR LESS  أصبحت وجهة آلاف النساء السودانيات اللواتي يبحثن عن الأناقة الأصيلة والجودة التي لا تُقاوم.
+                اليوم، Sabah Line | Abayas    أصبحت وجهة آلاف النساء السودانيات اللواتي يبحثن عن الأناقة الأصيلة والجودة التي لا تُقاوم.
               </p>
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="https://i.pinimg.com/1200x/6a/3f/1b/6a3f1bb9179a2e584888cffba230da41.jpg"
+                src="https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/671744343_17897652786438818_1082259666253622743_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzg4NDY4MzE1NTIxNDYxMjY4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BPcAydmZIbcQ7kNvwEpUqcT&_nc_oc=AdrCHyj8uO0CchaWteDEnxllLDeZqlTavWB2gCmgMUcHSQxS6g-7coJe4HqBgIGU5jQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=bz4LN-zJ_CkjGZ5C1Md9GA&_nc_ss=7a22e&oh=00_Af6LNykfUeap44MFe9x06dmhDyOfaBRnp77l2XfbO2el-w&oe=6A0EFFC8"
                 alt="قصة البراند 1"
                 className="aspect-[3/4] object-cover w-full"
               />
               <img
-                src="https://i.pinimg.com/736x/33/8b/e8/338be82eca2bad4789ecccfa440c6b6a.jpg"
+                src="https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/672999014_17897176668438818_8822519780005888371_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=Mzg4MjYwNjc5NzEzMDk4NDc5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=r4cl501TjSsQ7kNvwFTDE1q&_nc_oc=Adp3E1omjNbepM4Jtqwoy2M_rOxM8zLE6QGc1VwoHiEkIvNCbsxlcLyctiXCx-i-Qjc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=rBoA7aFXm8hVH_YjQgDeYg&_nc_ss=7a22e&oh=00_Af4A2mpu-myHlSclm1iI8lytIdAwmdeZKKc7VuBgnEkM9Q&oe=6A0F06D6"
                 alt="قصة البراند 2"
                 className="aspect-[3/4] object-cover w-full mt-8"
               />

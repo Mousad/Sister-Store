@@ -29,7 +29,7 @@ export function Abayas() {
       >
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1728487234854-c35578502fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1600"
+            src="https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/660310850_17894205138438818_5432033328692160044_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzg2ODE3NDg3NTU1NDM2MTgyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ab6MY_dK2P4Q7kNvwE9ftk9&_nc_oc=Adqz7bCtdEASnb81_TiTlF2QKtmtKZ1LbIj9IFgHPzbHlynDkJRsKsoCVnZD9LFa6Hw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=9vgJwhwOh94baFsZ3fE6tA&_nc_ss=7a22e&oh=00_Af5BMHwUp0WWXYztvyqifvJsrk24A8GT12NL_0CmVs3rpA&oe=6A0F2C00"
             alt="عبايات"
             className="w-full h-full object-cover opacity-20"
           />

@@ -10,16 +10,16 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <div className="mb-4">
-              <h3 className="text-[#9b3c52] font-black text-2xl">TOOB FOR LESS</h3>
+              <h3 className="text-[#9b3c52] font-black text-2xl">Sabah Line | Abayas</h3>
             </div>
             <p className="text-gray-400 leading-relaxed mb-6 max-w-xs">
               وجهتك الأولى للأزياء السودانية الأنيقة. نجمع بين أصالة التراث وروح العصر في كل قطعة.
-              احدث كوليكشن للتياب السودانى
-و أرهب التصاميم
+            
+
             </p>
             <div className="flex items-center gap-4">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/sabah_line/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-[#9b3c52]/20 flex items-center justify-center hover:bg-[#9b3c52] transition-colors"
@@ -27,7 +27,7 @@ export function Footer() {
                 <Instagram size={18} className="text-[#9b3c52] hover:text-white" />
               </a>
               <a
-                href="https://wa.me/249123456789"
+                href="https://wa.me/+201019715494"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-[#9b3c52]/20 flex items-center justify-center hover:bg-[#9b3c52] transition-colors"
@@ -65,10 +65,10 @@ export function Footer() {
 
         <div className="border-t border-white/10 mt-2 pt-2 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm">
-            © 2026 TOOB FOR LESS  . جميع الحقوق محفوظة.
+            © 2026 Sabah Line  . جميع الحقوق محفوظة.
           </p>
           <p className="text-gray-600 text-sm flex items-center gap-1">
-            صُنع بـ <Heart size={13} className="text-[#9b3c52]" fill="currentColor" /><a href="https://soob-portfolio.vercel.app/">Soo</a>
+             بـ <a href="https://soob-portfolio.vercel.app/">Soo</a>
           </p>
         </div>
       </div>

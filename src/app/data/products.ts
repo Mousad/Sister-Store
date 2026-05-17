@@ -18,15 +18,16 @@ export const products: Product[] = [
   // ===== التوبات السودانية =====
   {
     id: 1,
-    name: "توب  كلاسيكي",
+    name: "عباية  كلاسيكي",
     nameEn: "Classic Sudanese Top",
     price: 450,
     originalPrice: 550,
     category: "sudanese-top",
     images: [
-      "https://i.pinimg.com/736x/3d/f7/42/3df7423e0eaf379672498835900f4351.jpg",
-      "https://i.pinimg.com/736x/6d/e7/af/6de7af247cc7bf3fd612dec2bf343d81.jpg",
-      "https://i.pinimg.com/736x/3d/f7/42/3df7423e0eaf379672498835900f4351.jpg",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/671744343_17897652786438818_1082259666253622743_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzg4NDY4MzE1NTIxNDYxMjY4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BPcAydmZIbcQ7kNvwEpUqcT&_nc_oc=AdrCHyj8uO0CchaWteDEnxllLDeZqlTavWB2gCmgMUcHSQxS6g-7coJe4HqBgIGU5jQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcai19-7.fna&_nc_gid=VXJXfsYbsGa1fN9uDCECIw&_nc_ss=7a22e&oh=00_Af4rbkUQIVH7FhG1s8n5o-43j4lywqiVpWxUEN0I_Y7wxQ&oe=6A0EFFC8",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/671744343_17897652786438818_1082259666253622743_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzg4NDY4MzE1NTIxNDYxMjY4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BPcAydmZIbcQ7kNvwEpUqcT&_nc_oc=AdrCHyj8uO0CchaWteDEnxllLDeZqlTavWB2gCmgMUcHSQxS6g-7coJe4HqBgIGU5jQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcai19-7.fna&_nc_gid=VXJXfsYbsGa1fN9uDCECIw&_nc_ss=7a22e&oh=00_Af4rbkUQIVH7FhG1s8n5o-43j4lywqiVpWxUEN0I_Y7wxQ&oe=6A0EFFC8",
+      
+      
     ],
     description: "توب سوداني كلاسيكي مصنوع من أجود أنواع الأقمشة، يجمع بين الأصالة والعصرية بتصميم أنيق يناسب كل المناسبات.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -41,14 +42,15 @@ export const products: Product[] = [
   },
   {
     id: 2,
-    name: "توب سوداني مطرز",
+    name: " عباية مطرز",
     nameEn: "Embroidered Sudanese Top",
     price: 650,
     category: "sudanese-top",
     images: [
-      "https://i.pinimg.com/736x/d3/d5/f3/d3d5f3f622302aa024a90fa584de0dd4.jpg",
-      "https://i.pinimg.com/736x/3a/d0/e9/3ad0e9c8569a1d7ab1046e8b7a4a7144.jpg",
-      "https://i.pinimg.com/736x/fd/a0/91/fda091f1a1cfa5029dc3272674cdd585.jpg",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.71878-15/673798789_921300704235036_5190098113989350074_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzg4MjU1NDAzOTg3NTAxMzIzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=zEw1irbezkMQ7kNvwFzKlYg&_nc_oc=AdqAClIlG68bqXc9xAU2mjsXUAuW9U0wu-yvyEVOgNxpXfkCivhkM4T6KgjW3omK4PI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcai19-7.fna&_nc_gid=VXJXfsYbsGa1fN9uDCECIw&_nc_ss=7a22e&oh=00_Af7PyhcZZLqWVkPim6xFo3GwizWW8-Oyb-F5BUqEC6jrwg&oe=6A0F0C6A",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.71878-15/673798789_921300704235036_5190098113989350074_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzg4MjU1NDAzOTg3NTAxMzIzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=zEw1irbezkMQ7kNvwFzKlYg&_nc_oc=AdqAClIlG68bqXc9xAU2mjsXUAuW9U0wu-yvyEVOgNxpXfkCivhkM4T6KgjW3omK4PI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcai19-7.fna&_nc_gid=VXJXfsYbsGa1fN9uDCECIw&_nc_ss=7a22e&oh=00_Af7PyhcZZLqWVkPim6xFo3GwizWW8-Oyb-F5BUqEC6jrwg&oe=6A0F0C6A",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.71878-15/673798789_921300704235036_5190098113989350074_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzg4MjU1NDAzOTg3NTAxMzIzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=zEw1irbezkMQ7kNvwFzKlYg&_nc_oc=AdqAClIlG68bqXc9xAU2mjsXUAuW9U0wu-yvyEVOgNxpXfkCivhkM4T6KgjW3omK4PI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcai19-7.fna&_nc_gid=VXJXfsYbsGa1fN9uDCECIw&_nc_ss=7a22e&oh=00_Af7PyhcZZLqWVkPim6xFo3GwizWW8-Oyb-F5BUqEC6jrwg&oe=6A0F0C6A",
+      
     ],
     description: "توب سوداني مطرز يدوياً بخيوط ذهبية وفضية، تحفة فنية تعكس جمال التراث السوداني الأصيل مع لمسة عصرية فاخرة.",
     sizes: ["S", "M", "L", "XL"],
@@ -61,13 +63,14 @@ export const products: Product[] = [
   },
   {
     id: 3,
-    name: "توب  كاجوال",
+    name: "عباية  كاجوال",
     nameEn: "Casual Sudanese Top",
     price: 380,
     category: "sudanese-top",
     images: [
-      "https://i.pinimg.com/736x/27/25/f7/2725f77499619b709d2bc17c3f858fd1.jpg",
-      "https://i.pinimg.com/736x/9a/19/fa/9a19faf390c22e2aaa8ee0030bf0932b.jpg",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/675416011_17900599107438818_4804189095701518330_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzg5ODU1OTg0MzEzMjg4NTYzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kBKbV-TpiwUQ7kNvwFinEuo&_nc_oc=AdpYJA6mLrzhEjtAAAFValQ9GA_-LTXfWaCjyLN-cxBmnd_OuXoTJpot6uZk39PbV9s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=r4jxfx2O7w0Dor3KbxAZIQ&_nc_ss=7a22e&oh=00_Af5nQufvB7E7r3rSptYZ1hNDL4-4g-fHbuGHKzUtxeIymg&oe=6A0F018C",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/675416011_17900599107438818_4804189095701518330_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzg5ODU1OTg0MzEzMjg4NTYzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=kBKbV-TpiwUQ7kNvwFinEuo&_nc_oc=AdpYJA6mLrzhEjtAAAFValQ9GA_-LTXfWaCjyLN-cxBmnd_OuXoTJpot6uZk39PbV9s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=r4jxfx2O7w0Dor3KbxAZIQ&_nc_ss=7a22e&oh=00_Af5nQufvB7E7r3rSptYZ1hNDL4-4g-fHbuGHKzUtxeIymg&oe=6A0F018C",
+
     ],
     description: "توب سوداني عصري للاستخدام اليومي، مريح وخفيف الوزن مع تصميم أنيق يناسب الخروجات اليومية والمناسبات البسيطة.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -81,14 +84,15 @@ export const products: Product[] = [
   },
   {
     id: 4,
-    name: "توب سوداني فاخر",
+    name: "عباية  فاخر",
     nameEn: "Luxury Sudanese Top",
     price: 750,
     originalPrice: 900,
     category: "sudanese-top",
     images: [
-      "https://i.pinimg.com/736x/ea/68/0f/ea680f031a334fb37c97ca0dc7a96716.jpg",
-      "https://i.pinimg.com/736x/ed/de/11/edde11866562d9af98767745f3b78aac.jpg",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/671141103_17900599161438818_611517239690797446_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=Mzg5ODU1OTczNjg5MTA1NDk1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FCuxdTHQaEsQ7kNvwGkA1Os&_nc_oc=AdpsFAe8GEAPruP8s6LAGx7MkQ2THYmQLDq4MxdtSI92SiunTW2zUSo553UORNA5fks&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=r4jxfx2O7w0Dor3KbxAZIQ&_nc_ss=7a22e&oh=00_Af5O_sLGbbI7qclrZjxaczXbiwY90LGX6HcaYPLpo6XrDQ&oe=6A0F052E",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/671141103_17900599161438818_611517239690797446_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=Mzg5ODU1OTczNjg5MTA1NDk1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FCuxdTHQaEsQ7kNvwGkA1Os&_nc_oc=AdpsFAe8GEAPruP8s6LAGx7MkQ2THYmQLDq4MxdtSI92SiunTW2zUSo553UORNA5fks&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=r4jxfx2O7w0Dor3KbxAZIQ&_nc_ss=7a22e&oh=00_Af5O_sLGbbI7qclrZjxaczXbiwY90LGX6HcaYPLpo6XrDQ&oe=6A0F052E",
+  
     ],
     description: "توب سوداني فاخر من أجود أنواع الشيفون والحرير الطبيعي، مثالي للأفراح والمناسبات الفخمة.",
     sizes: ["S", "M", "L", "XL"],
@@ -103,13 +107,14 @@ export const products: Product[] = [
   },
   {
     id: 5,
-    name: "توب سوداني مزخرف",
+    name: " عباية مزخرف",
     nameEn: "Ornamented Sudanese Top",
     price: 550,
     category: "sudanese-top",
     images: [
-      "https://i.pinimg.com/736x/05/84/f7/0584f7b0cdfc4fd3319752f34cd1af26.jpg",
-      "https://i.pinimg.com/736x/a3/11/f4/a311f4cc900f24923f4cdbafead59239.jpg",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/670872159_17896726917438818_3587299126447900209_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=106&ig_cache_key=Mzg4MDUyODY3NDA2NzUwNjk2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dAPAy8FREwAQ7kNvwFO3nQB&_nc_oc=AdoHm7aoqQu7aWOJliejihz0r3kuzFl5I12fEefs9iM6XFRZSIXz0qpVMbjjjBkAkSI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=egYVHIioM0p1Q3zoBoweVw&_nc_ss=7a22e&oh=00_Af6c8xQMOHON9eYSIQnpvm9xjEYPi-0sbHETzJd_v6n4bg&oe=6A0F0495",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/670872159_17896726917438818_3587299126447900209_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=106&ig_cache_key=Mzg4MDUyODY3NDA2NzUwNjk2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dAPAy8FREwAQ7kNvwFO3nQB&_nc_oc=AdoHm7aoqQu7aWOJliejihz0r3kuzFl5I12fEefs9iM6XFRZSIXz0qpVMbjjjBkAkSI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=egYVHIioM0p1Q3zoBoweVw&_nc_ss=7a22e&oh=00_Af6c8xQMOHON9eYSIQnpvm9xjEYPi-0sbHETzJd_v6n4bg&oe=6A0F0495",
+ 
     ],
     description: "توب سوداني بزخارف تقليدية مستوحاة من الفن السوداني الأصيل، يجسّد الهوية الثقافية بأسلوب عصري.",
     sizes: ["M", "L", "XL", "XXL"],
@@ -122,13 +127,13 @@ export const products: Product[] = [
   },
   {
     id: 6,
-    name: "توب  أبيض ناعم",
+    name: "عباية   ناعم",
     nameEn: "Soft White Sudanese Top",
     price: 420,
     category: "sudanese-top",
     images: [
-      "https://i.pinimg.com/1200x/cd/c8/32/cdc8323278086732ca0fc2f2128d03e3.jpg",
-      "https://i.pinimg.com/736x/b9/15/06/b91506553a83d0db6a69eef73ecb380e.jpg",
+      "https://i.pinimg.com/736x/c9/f9/01/c9f90127154ba4928979d9ae14bd9b9b.jpg",
+      "https://i.pinimg.com/736x/c9/f9/01/c9f90127154ba4928979d9ae14bd9b9b.jpg",
     ],
     description: "توب سوداني بلون أبيض ناصع ونسيج ناعم، يعطي إطلالة نقية وأنيقة تناسب جميع الأوقات.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -141,13 +146,14 @@ export const products: Product[] = [
   },
   {
     id: 7,
-    name: "توب سوداني  أنيق",
+    name: " عباية  أنيق",
     nameEn: "Simple Elegant Sudanese Top",
     price: 350,
     category: "sudanese-top",
     images: [
-      "https://i.pinimg.com/736x/1c/a9/79/1ca9799a118fef79a513b7ebb1e4e9a0.jpg",
-      "https://i.pinimg.com/736x/50/1e/9b/501e9b1c0169a60b5e3409d3bc3aea82.jpg",
+     "https://i.pinimg.com/736x/05/48/56/054856c677be36fd5bdcac412c449a4e.jpg",
+     "https://i.pinimg.com/736x/05/48/56/054856c677be36fd5bdcac412c449a4e.jpg",
+    
     ],
     description: "توب سوداني بسيط وأنيق، التصميم البسيط يجعله متعدد الاستخدامات ويناسب مختلف المناسبات.",
     sizes: ["S", "M", "L", "XL"],
@@ -161,14 +167,15 @@ export const products: Product[] = [
   },
   {
     id: 8,
-    name: "توب سوداني للأفراح",
+    name: "عباية  ",
     nameEn: "Wedding Sudanese Top",
     price: 680,
     originalPrice: 800,
     category: "sudanese-top",
     images: [
-      "https://i.pinimg.com/736x/6a/3f/1b/6a3f1bb9179a2e584888cffba230da41.jpg",
-      "https://i.pinimg.com/736x/5a/c7/f8/5ac7f85dffccb6561454f6282160c390.jpg",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/684817980_17900599041438818_3705771421261428894_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=Mzg5ODU1OTY1MzQyNDUxNTg4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cjJVUjhSWvYQ7kNvwEZwW9C&_nc_oc=AdqXQa2RSXzvxOFlKJINP6U6vNyLrGz3wiDlJzCy-ChjoVzwGPKmaH6cXMyAOMYWIC8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=r4jxfx2O7w0Dor3KbxAZIQ&_nc_ss=7a22e&oh=00_Af4cPQQFTznDSMj-LXkgmbaPRby1QpLTrkmSUy9nw__bYA&oe=6A0F1739",
+      "https://instagram.fcai19-7.fna.fbcdn.net/v/t51.82787-15/684817980_17900599041438818_3705771421261428894_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=Mzg5ODU1OTY1MzQyNDUxNTg4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cjJVUjhSWvYQ7kNvwEZwW9C&_nc_oc=AdqXQa2RSXzvxOFlKJINP6U6vNyLrGz3wiDlJzCy-ChjoVzwGPKmaH6cXMyAOMYWIC8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=7&_nc_ht=instagram.fcai19-7.fna&_nc_gid=r4jxfx2O7w0Dor3KbxAZIQ&_nc_ss=7a22e&oh=00_Af4cPQQFTznDSMj-LXkgmbaPRby1QpLTrkmSUy9nw__bYA&oe=6A0F1739",
+      
     ],
     description: "توب سوداني خاص للأفراح والمناسبات الكبيرة، مطرز بالترتر والخرز ليضفي إطلالة ملكية لا تُنسى.",
     sizes: ["S", "M", "L", "XL"],
@@ -180,47 +187,8 @@ export const products: Product[] = [
     bestSeller: true,
     discount: 15,
   },
-  {
-    id: 9,
-    name: "توب سوداني ميرون",
-    nameEn: "Meroon Sudanese Top",
-    price: 590,
-    category: "sudanese-top",
-    images: [
-      "https://i.pinimg.com/736x/fe/cf/f2/fecff2d7b3f4fe4336e408ecf161d6c0.jpg",
-      "https://i.pinimg.com/736x/57/7d/25/577d25792845033cc6475f798d90c66b.jpg",
-    ],
-    description: "توب سوداني بلون الميرون الأنيق، مزين بتطريز يدوي دقيق على الياقة والأكمام.",
-    sizes: ["M", "L", "XL", "XXL"],
-    colors: [
-      { name: "خمري غامق", hex: "#722F37" },
-      { name: "بني أرجواني", hex: "#9b3c52" },
-    ],
-    featured: false,
-    bestSeller: true,
-  },
-  {
-    id: 10,
-    name: "توب سوداني دانتيل",
-    nameEn: "Lace Sudanese Top",
-    price: 720,
-    category: "sudanese-top",
-    images: [
-      "https://i.pinimg.com/736x/8c/47/34/8c4734f0bfa8202c5e0ca0188c52078a.jpg",
-      "https://i.pinimg.com/736x/c8/99/b8/c899b844c81f51150fe4e7d08128779a.jpg",
-     ,
-    ],
-    description: "توب سوداني فاخر مصنوع من الدانتيل الأصلي المستورد، قطعة استثنائية للمناسبات الراقية.",
-    sizes: ["S", "M", "L", "XL"],
-    colors: [
-      { name: "أبيض دانتيل", hex: "#FFFFF0" },
-      { name: "أسود دانتيل", hex: "#1C1C1C" },
-      { name: "بيج دانتيل", hex: "#F5F5DC" },
-    ],
-    featured: true,
-    bestSeller: false,
-  },
-
+ 
+ 
   // ===== العبايات =====
   {
     id: 11,
@@ -229,8 +197,9 @@ export const products: Product[] = [
     price: 850,
     category: "abaya",
     images: [
-      "https://i.pinimg.com/736x/7b/84/15/7b8415dfcd4e95fd3c0db99de9f6edc4.jpg",
-      "https://i.pinimg.com/736x/73/7b/61/737b614fe4e8f2e89aba658a9314e922.jpg",
+      "https://i.pinimg.com/736x/eb/93/1e/eb931ecb65632371769fc93a6e29d7d7.jpg",
+      "https://i.pinimg.com/736x/eb/93/1e/eb931ecb65632371769fc93a6e29d7d7.jpg",
+      
       
     ],
     description: "عباية  كلاسيكية من أجود أنواع الكريب المطاط، بقصة مستقيمة أنيقة تناسب جميع المناسبات.",
@@ -244,15 +213,14 @@ export const products: Product[] = [
   },
   {
     id: 12,
-    name: "عباية مطرزة ذهبية",
+    name: "عباية مطرزة ",
     nameEn: "Golden Embroidered Abaya",
     price: 1200,
     originalPrice: 1400,
     category: "abaya",
     images: [
-      "https://i.pinimg.com/736x/b5/07/d8/b507d89b263ac6a977fd876943c21d62.jpg",
-      "https://i.pinimg.com/736x/61/3e/1b/613e1b80ebd472dd0752cff2a41e50cb.jpg",
-      "https://i.pinimg.com/736x/b5/07/d8/b507d89b263ac6a977fd876943c21d62.jpg",
+      "https://i.pinimg.com/1200x/22/54/ac/2254accdde98ae1031ead364ed92d30f.jpg",
+      "https://i.pinimg.com/1200x/22/54/ac/2254accdde98ae1031ead364ed92d30f.jpg",
     ],
     description: "عباية فاخرة بتطريز ذهبي يدوي على الأطراف والأكمام، تجسّد الأناقة الشرقية بأبهى صورها.",
     sizes: ["S", "M", "L", "XL"],
@@ -266,13 +234,13 @@ export const products: Product[] = [
   },
   {
     id: 13,
-    name: "عباية فلوي عصرية",
+    name: "عباية فلوي ",
     nameEn: "Modern Flowy Abaya",
     price: 950,
     category: "abaya",
     images: [
-      "https://i.pinimg.com/736x/19/bf/71/19bf7121875b9e3528ec934d220c3f51.jpg",
-      "https://i.pinimg.com/736x/ac/61/bd/ac61bd5e80327cbfcb5def3a0a05e093.jpg",
+      "https://i.pinimg.com/736x/3d/cf/ab/3dcfab92bcb3496f3e7482a49a192b73.jpg",
+      "https://i.pinimg.com/736x/3d/cf/ab/3dcfab92bcb3496f3e7482a49a192b73.jpg",
     ],
     description: "عباية شيفون فلوي بقطعة مميزة تتمايل بخفة مع الحركة، مثالية للخروجات الراقية والحفلات.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -287,14 +255,14 @@ export const products: Product[] = [
   },
   {
     id: 14,
-    name: "عباية بسيطة أنيقة",
+    name: "عباية بسيطة ",
     nameEn: "Simple Elegant Abaya",
     price: 780,
     originalPrice: 900,
     category: "abaya",
     images: [
-      "https://i.pinimg.com/736x/29/68/90/296890eb3681c8349dbc142cdee7daf0.jpg",
-      "https://i.pinimg.com/736x/b7/de/d3/b7ded34bd5761c916cca671ec3e16c0c.jpg",
+      "https://i.pinimg.com/1200x/29/0d/c4/290dc402baaa4417ab4610edb26ebe00.jpg",
+      "https://i.pinimg.com/1200x/29/0d/c4/290dc402baaa4417ab4610edb26ebe00.jpg",
     ],
     description: "عباية بسيطة ذات تصميم أنيق ونظيف، الجودة العالية تتحدث عن نفسها في كل تفصيلة.",
     sizes: ["M", "L", "XL", "XXL"],
@@ -309,14 +277,13 @@ export const products: Product[] = [
   },
   {
     id: 15,
-    name: "عباية فاخرة بنقشة",
+    name: "عباية فاخرة ",
     nameEn: "Luxury Patterned Abaya",
     price: 1100,
     category: "abaya",
     images: [
-      "https://i.pinimg.com/736x/31/2c/89/312c89522fc8fe20eae122f537aa1428.jpg",
-      "https://i.pinimg.com/736x/e0/3e/0d/e03e0d676e52c7480273114a09e3d831.jpg",
-      "https://i.pinimg.com/736x/31/2c/89/312c89522fc8fe20eae122f537aa1428.jpg",
+      "https://i.pinimg.com/736x/03/24/bb/0324bb133d3b452b6b33355a14638479.jpg",
+      "https://i.pinimg.com/736x/03/24/bb/0324bb133d3b452b6b33355a14638479.jpg",
     ],
     description: "عباية بنقشة عصرية راقية، تجمع بين الأصالة والحداثة في تصميم يستحق الاقتناء.",
     sizes: ["S", "M", "L", "XL"],
@@ -329,13 +296,13 @@ export const products: Product[] = [
   },
   {
     id: 16,
-    name: "عباية كريمي فاخرة",
+    name: "عباية كريمي ",
     nameEn: "Cream Luxury Abaya",
     price: 880,
     category: "abaya",
     images: [
-      "https://i.pinimg.com/736x/7b/83/ee/7b83ee89548adefc4b16fcc70f0b0700.jpg",
-      "https://i.pinimg.com/736x/97/7e/09/977e09fdceb471b8bd3e59c5722176d1.jpg  ",
+      "https://i.pinimg.com/736x/a7/2d/2a/a72d2ac0293ef5dc14fc486bb1b3088d.jpg",
+      "https://i.pinimg.com/736x/a7/2d/2a/a72d2ac0293ef5dc14fc486bb1b3088d.jpg",
     ],
     description: "عباية بلون الكريمي الراقي من قماش الكريب الفاخر، تعطي إطلالة ملكية ناعمة.",
     sizes: ["S", "M", "L", "XL", "XXL"],
@@ -348,14 +315,14 @@ export const products: Product[] = [
   },
   {
     id: 17,
-    name: "عباية مزخرفة بالترتر",
+    name: "عباية  بالترتر",
     nameEn: "Sequin Abaya",
     price: 1050,
     originalPrice: 1200,
     category: "abaya",
     images: [
-      "https://i.pinimg.com/736x/37/29/e8/3729e8c3cb299e2d9b465ce3cb9fabf0.jpg",
-      "https://i.pinimg.com/1200x/6e/fc/fa/6efcfa3ebbfaaee6026c6bc37a0ef7a1.jpg",
+      "https://i.pinimg.com/1200x/6b/e4/49/6be4494d0531c4f5df65a843699f3036.jpg",
+      "https://i.pinimg.com/1200x/6b/e4/49/6be4494d0531c4f5df65a843699f3036.jpg",
     ],
     description: "عباية مزينة بالترتر اللامع على الأكمام والياقة، تجعلكِ نجمة الحفل في كل مناسبة.",
     sizes: ["S", "M", "L", "XL"],
@@ -374,8 +341,8 @@ export const products: Product[] = [
     price: 920,
     category: "abaya",
     images: [
-      "https://i.pinimg.com/736x/90/98/7c/90987c3326315898dbfecd79f42450e6.jpg",
-      "https://i.pinimg.com/736x/0c/d7/e2/0cd7e2c4e15309354b5e801c44488d05.jpg",
+      "https://i.pinimg.com/736x/a5/0d/04/a50d04ed67e358e0e17622ee1b580b3e.jpg",
+      "https://i.pinimg.com/736x/a5/0d/04/a50d04ed67e358e0e17622ee1b580b3e.jpg",
     ],
     description: "عباية مستوحاة من الموروث الثقافي السوداني الأصيل، تحتضن كل تفصيلة فيها قيمة تراثية عميقة.",
     sizes: ["M", "L", "XL", "XXL"],
@@ -386,48 +353,8 @@ export const products: Product[] = [
     featured: false,
     bestSeller: false,
   },
-  {
-    id: 19,
-    name: "عباية أفراح",
-    nameEn: "Wedding Abaya",
-    price: 990,
-    originalPrice: 1150,
-    category: "abaya",
-    images: [
-      
-      "https://i.pinimg.com/736x/7e/42/df/7e42dfd6c4c12c441aa313f16295846d.jpg",
-      "https://i.pinimg.com/736x/35/21/5c/35215cf9de94ccb66e30bd3aa7d3e084.jpg",
-    ],
-    description: "عباية خاصة للأفراح والمناسبات الكبرى، تجمع بين الوقار والفخامة في تصميم لا مثيل له.",
-    sizes: ["S", "M", "L", "XL"],
-    colors: [
-      { name: "أبيض ملكي", hex: "#FAF9F6" },
-      { name: "فضي", hex: "#C0C0C0" },
-      { name: "ذهبي فاتح", hex: "#FFD700" },
-    ],
-    featured: true,
-    bestSeller: false,
-    discount: 14,
-  },
-  {
-    id: 20,
-    name: "عباية دانتيل",
-    nameEn: "Lace Abaya",
-    price: 1150,
-    category: "abaya",
-    images: [
-      "https://i.pinimg.com/736x/88/47/ad/8847ad40379e16ab4bb9dd22b69500b5.jpg",
-      "https://i.pinimg.com/736x/91/a3/a0/91a3a0d26cf5888f79f1826b45b5729f.jpg",
-    ],
-    description: "عباية دانتيل فاخرة بطبقات متعددة تضيف عمقاً وجمالاً فريداً، مثالية لأرقى المناسبات.",
-    sizes: ["S", "M", "L", "XL"],
-    colors: [
-      { name: "أسود دانتيل", hex: "#000000" },
-      { name: "بيج دانتيل", hex: "#F5F5DC" },
-    ],
-    featured: true,
-    bestSeller: true,
-  },
+  
+ 
 ];
 
 export const getFeaturedProducts = () => products.filter((p) => p.featured).slice(0, 6);
