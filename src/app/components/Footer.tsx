@@ -43,7 +43,7 @@ export function Footer() {
             <ul className="space-y-3">
               {[
                 { href: "/", label: "الرئيسية" },
-                { href: "/sudanese-top", label: "توب سوداني" },
+                { href: "/sudanese-top", label: " عبايات عربية" },
                 { href: "/abayas", label: "عبايات" },
                 { href: "/offers", label: "العروض" },
                 { href: "/about", label: "من نحن" },

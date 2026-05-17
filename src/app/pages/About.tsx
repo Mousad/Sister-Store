@@ -155,7 +155,7 @@ export function About() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-10">
             <h2 className="text-gray-900 text-[25px] font-bold">من كواليس   </h2>
-            <h2 className="text-gray-900 text-[25px] font-bold">  TOOB FOR LESS </h2>
+            <h2 className="text-gray-900 text-[25px] font-bold">  Sabah Line  </h2>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {[
@@ -185,7 +185,7 @@ export function About() {
             انضمي إلى عائلة  
           </h2>
           <h2 className="text-white text-3xl font-bold mb-4">
-           TOOB FOR LESS
+          Sabah Line 
           </h2>
           <p className="text-gray-400 mb-8">
             اكتشفي تشكيلتنا وكوني جزءاً من قصة الأناقة السودانية

@@ -22,8 +22,8 @@ export function Navbar() {
 
   const links = [
     { href: "/", label: "الرئيسية" },
-    { href: "/sudanese-top", label: "توب سوداني" },
-    { href: "/abayas", label: "تياب عرسان" },
+    { href: "/sudanese-top", label: " عبايات عربية" },
+    { href: "/abayas", label: "عباية " },
     { href: "/offers", label: "العروض" },
     { href: "/about", label: "من نحن" },
     { href: "/contact", label: "تواصل معنا" },
